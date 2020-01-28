@@ -206,7 +206,7 @@
       <workItem from="1580189775735" duration="9000" />
       <workItem from="1580189861345" duration="58000" />
       <workItem from="1580189919951" duration="3094000" />
-      <workItem from="1580201808869" duration="1205000" />
+      <workItem from="1580201808869" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="我只是单纯试试">
       <created>1580190525943</created>
@@ -250,11 +250,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580202972905</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;test.html&#10;">
+      <created>1580203022051</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580203022051</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4398000" />
+    <option name="totallyTimeSpent" value="4412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
